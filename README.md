@@ -1,1 +1,1 @@
-# le-barbier-de-paris
+# Le-barbier-de-paris
