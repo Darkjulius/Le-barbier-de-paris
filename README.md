@@ -1,5 +1,5 @@
 # Le-barbier-de-paris
-***
+
 ## Contexte du projet
 C'est un projet issu d'un tutoriel qui permet de revoir les bases du HTML, CSS et JavaScript.
 
