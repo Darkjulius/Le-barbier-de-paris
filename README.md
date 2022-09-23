@@ -10,7 +10,7 @@ C'est un projet issu d'un tutoriel qui permet de revoir les bases du HTML, CSS e
 - Saisie d'un titre de type commentaires pour chaques sections.
 
 ## CSS
-- Utilisation de variables afin d'éviter les répétions.
+- Utilisation de variables afin d'éviter les répétitions.
 - Utilisation de Flexblox.
 - Création d'un slider dans la section Testimonial en pure CSS.
 - Mise en place des Media Queries.
